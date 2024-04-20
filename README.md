@@ -1,2 +1,2 @@
 # DeltaBatch
-this is for practicing web development  projects
+this is a demo for Git and Github practice.
